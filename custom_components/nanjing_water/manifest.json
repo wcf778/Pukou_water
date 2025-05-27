@@ -1,0 +1,11 @@
+{
+    "domain": "nanjing_water",
+    "name": "Nanjing Water",
+    "documentation": "https://github.com/yourusername/nanjing_water",
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "requirements": ["aiohttp"],
+    "version": "1.0.0",
+    "config_flow": true,
+    "iot_class": "cloud_polling"
+  }
